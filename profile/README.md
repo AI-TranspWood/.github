@@ -1,5 +1,7 @@
 # AI-TranspWood
 
+![LOGO](../AITW_logo.png)
+
 The AI-TranspWood project aims at an efficient integration of advanced AI-driven computational models with the SSbD (Safe and Sustainable by Design) framework for wood-based composites.
 The project highlights this integration with the creation of new Transparent Wood composites, with the vision to integrate or even substitute concerning substances (plastic and glass) in construction, automotive, electronics, and furniture sectors.
 To support this aim, the project offers user-oriented tools, including surrogate modeling and focused LCA tools, to industrial partners within and outside the consortium.
